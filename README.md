@@ -1,16 +1,16 @@
-# login_sample_v2
+Flutter 登入UI設計_2
+-------------
 
-A new Flutter project.
+Flutter 登入UI設計_2
 
-## Getting Started
+| 首頁 | 登入 |
+| :----: | :----: |
+| <img src="images/首頁.jpg" width="50%"> | <img src="images/登入.jpg" width="50%">|
 
-This project is a starting point for a Flutter application.
+| 註冊 | 忘記密碼 |
+| :----: | :----: |
+| <img src="images/註冊.jpg" width="50%"> | <img src="images/忘記密碼.jpg" width="50%">|
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| 驗證 | 驗證成功 |
+| :----: | :----: |
+| <img src="images/驗證.jpg" width="50%"> | <img src="images/驗證成功.jpg" width="50%">|
